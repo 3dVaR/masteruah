@@ -30,5 +30,5 @@ open ~/.ssh/id_rsa.pub
 ssh -T 3dVaR@github.com
 ssh-add -K ~/.ssh/id_rsa
 pbcopy < ~/.ssh/id_rsa.pub
- ssh -T edward.aponte@edu.uah.es
+ssh -T edward.aponte@edu.uah.es
 
